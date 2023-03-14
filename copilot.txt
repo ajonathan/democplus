@@ -1,2 +1,8 @@
+GitHub Copilot is an AI pair programmer that helps you write code faster and with less work1. It offers autocomplete-style suggestions as you code, based on comments and context2. It can also generate whole functions and tests from natural language prompts13.
 
-what is the value of using github copilot?
+Some possible values of using GitHub Copilot are:
+
+You can save time and effort by letting GitHub Copilot write boilerplate code for you.
+You can learn new coding techniques and best practices by seeing how GitHub Copilot suggests solutions.
+You can explore new ideas and possibilities by asking GitHub Copilot to generate code for different scenarios.
+Are you interested in trying GitHub Copilot?
